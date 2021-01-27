@@ -43,5 +43,6 @@ int database_connection_query(database_connection_t* conn, const char* query, da
 
 int main() {
     printf("Hello, World!\n");
+    // some new code
     return 0;
 }
